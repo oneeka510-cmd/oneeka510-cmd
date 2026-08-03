@@ -19,7 +19,7 @@
 
 ### Hi, I'm Oneeka — AI & Backend Developer (Python)
 
-I'm a professional AI and backend developer focused on production-grade Python systems for retrieval-augmented generation (RAG), search, and data-driven services.
+I'm a professional AI and backend developer focused on production-grade Python systems for retrieval-augmented generation (RAG), OCR and data-driven services.
 
 - **Current:** Junior AI Developer at a maritime SaaS company
 - **Focus:** building reliable, scalable backends and production RAG/search pipelines
