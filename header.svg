@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00c2ff">
+        <animate attributeName="stop-color" values="#00c2ff;#7b61ff;#00c2ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7b61ff">
+        <animate attributeName="stop-color" values="#7b61ff;#00c2ff;#7b61ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- background rounded panel -->
+  <rect x="6" y="6" rx="12" ry="12" width="888" height="108" fill="url(#g)" opacity="0.95"/>
+
+  <!-- left text -->
+  <text x="40" y="72" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="28" fill="#ffffff" font-weight="600">
+    Oneeka - AI & Backend Developer (Python)
+  </text>
+
+  <!-- subtle dots animation on right -->
+  <g transform="translate(720,58)">
+    <circle cx="0" cy="0" r="6" fill="#ffffff" opacity="0.85">
+      <animate attributeName="cy" values="0;-8;0" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="22" cy="0" r="6" fill="#ffffff" opacity="0.85">
+      <animate attributeName="cy" values="0;-12;0" dur="1.8s" begin="0.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" begin="0.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="44" cy="0" r="6" fill="#ffffff" opacity="0.85">
+      <animate attributeName="cy" values="0;-6;0" dur="1.4s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.4s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
