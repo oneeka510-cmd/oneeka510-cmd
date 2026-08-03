@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Oneeka - AI & Backend Developer (Python)" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/oneeka510-cmd/oneeka510-cmd/header.svg" alt="Oneeka - AI & Backend Developer (Python)" width="100%" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <br/>
 
-###  Hi, I'm Oneeka - AI & Backend Developer (Python)
+###  Hi, I'm Oneeka — AI & Backend Developer (Python)
 
 I'm a professional AI and backend developer focused on production-grade Python systems for retrieval-augmented generation (RAG), search, and data-driven services.
 
@@ -46,7 +46,7 @@ I'm a professional AI and backend developer focused on production-grade Python s
 
 <br/>
 
-### 🔗 Links
+###  Links
 
 - GitHub: [@oneeka510-cmd](https://github.com/oneeka510-cmd)
 
