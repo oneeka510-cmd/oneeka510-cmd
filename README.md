@@ -1,4 +1,4 @@
-# <img src="./header.svg" alt="Oneeka - AI & Backend Developer (Python)" />
+# <img src="./header.gif" alt="Oneeka - AI & Backend Developer (Python)" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) \
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) \
