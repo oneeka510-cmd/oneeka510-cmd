@@ -1,16 +1,31 @@
-## Hi there 👋
+# <img src="./header.svg" alt="Oneeka - AI & Backend Developer (Python)" />
 
-<!--
-**oneeka510-cmd/oneeka510-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) \
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) \
+![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white) \
+![LangChain](https://img.shields.io/badge/LangChain-111827?logo=python&logoColor=white) \
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?logo=python&logoColor=white) \
+![Weaviate](https://img.shields.io/badge/Weaviate-0052CC?logo=weaviate&logoColor=white) \
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF7A59?logo=chromadb&logoColor=white) \
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?logo=microsoftazure&logoColor=white)
 
-Here are some ideas to get you started:
+I’m Oneeka - a professional AI and backend developer focused on production-grade Python systems for retrieval-augmented generation (RAG), search, and data-driven services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Current: Junior AI Developer at a maritime SaaS company
+- Focus: building reliable, scalable backends and production RAG/search pipelines
+
+Experience
+- Designed and deployed RAG systems and knowledge-driven assistants for internal tools and customer-facing services
+- Integrated vector databases (Weaviate, ChromaDB) with retrieval layers using LangChain and LangGraph
+- Implemented scalable indexing and search solutions using Azure AI Search and PostgreSQL
+- Delivered production FastAPI services with SQLAlchemy-backed data models, containerization, and CI/CD
+
+Skills
+- AI / GenAI / ML
+- Python backend: FastAPI, SQLAlchemy
+- Databases & search: PostgreSQL, Weaviate, ChromaDB, Azure AI Search
+- Retrieval & orchestration: LangChain, LangGraph
+- DevOps: Docker, CI/CD, monitoring
+
+Links
+- GitHub: https://github.com/oneeka510-cmd
