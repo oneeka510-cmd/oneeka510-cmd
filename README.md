@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/oneeka510-cmd/oneeka510-cmd/header.svg" alt="AI & Backend Developer (Python)" width="100%" />
+  AI & Backend Developer (Python)
 </div>
 
 <div align="center">
