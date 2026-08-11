@@ -17,16 +17,8 @@
 <br/>
 
 Hi,
-
 I'm a Junior AI Developer working on conversational AI, RAG pipelines, and document automation - mostly living in Python and FastAPI.
-
-Right now I'm building AI systems for a maritime tech company: chatbots, backend APIs, and document processing pipelines that need to handle messy real-world inputs (scanned PDFs, inconsistent formatting, the usual).
-
-What I've been building:
-Upgraded a production chatbot with a RAG pipeline on Azure AI Search, adding conversational context handling so retrieval stays relevant across multi-turn queries, not just single-shot lookups
-Built OCR-based document automation workflows in Python that cut manual review volume by 90%+ — includes handling scanned images, DOCX, and PDF extraction
-Designed FastAPI backend services for data ingestion, transformation, and persistence, with SQLAlchemy handling the ORM layer against SQL Server/PostgreSQL
-Integrated Weaviate and ChromaDB as vector stores, wiring up retrieval layers with LangChain and LangGraph for more structured, multi-step agentic workflows
+I'm building AI systems for a maritime tech company: chatbots, backend APIs, and document processing pipelines that need to handle messy real-world inputs (scanned PDFs, inconsistent formatting, the usual).
 
 
 ### Skills
