@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Junior AI & Backend Developer (Python) </h1>
+  <h1> AI & Backend Developer (Python) </h1>
 </div>
 
 <div align="center">
