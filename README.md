@@ -16,20 +16,18 @@
 </div>
 <br/>
 
-### Hi, I'm Oneeka
-Junior AI Developer building conversational AI, RAG pipelines, and document automation solutions, backed by a strong foundation in Python and FastAPI.
+Hi,
 
-- **Current:** Junior AI Developer at a maritime tech company
-- **Focus:** Generative AI (RAG, conversational systems), backend APIs, and database integration
-<br/>
+I'm a Junior AI Developer working on conversational AI, RAG pipelines, and document automation - mostly living in Python and FastAPI.
 
-### Experience
-- Enhanced a production AI chatbot, implementing a RAG pipeline with Azure AI Search and conversational context handling to improve query understanding and response relevance
-- Contributed to AI-driven document automation workflows using OCR and Python-based processing, reducing manual review volume by over 90%
-- Designed and implemented backend services using FastAPI and Python, building REST APIs for data ingestion, transformation, and persistence
-- Integrated vector databases (Weaviate, ChromaDB) with retrieval layers using LangChain and LangGraph
-- Built a multi-document RAG chatbot with source citations, retrieval debugging, and conversational memory
-<br/>
+Right now I'm building AI systems for a maritime tech company: chatbots, backend APIs, and document processing pipelines that need to handle messy real-world inputs (scanned PDFs, inconsistent formatting, the usual).
+
+What I've been building:
+Upgraded a production chatbot with a RAG pipeline on Azure AI Search, adding conversational context handling so retrieval stays relevant across multi-turn queries, not just single-shot lookups
+Built OCR-based document automation workflows in Python that cut manual review volume by 90%+ — includes handling scanned images, DOCX, and PDF extraction
+Designed FastAPI backend services for data ingestion, transformation, and persistence, with SQLAlchemy handling the ORM layer against SQL Server/PostgreSQL
+Integrated Weaviate and ChromaDB as vector stores, wiring up retrieval layers with LangChain and LangGraph for more structured, multi-step agentic workflows
+
 
 ### Skills
 | Category | Stack |
