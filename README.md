@@ -17,8 +17,9 @@
 <br/>
 
 Hi,
-I'm a Junior AI Developer working on conversational AI, RAG pipelines, and document automation - mostly living in Python and FastAPI.
-I'm building AI systems for a maritime tech company: chatbots, backend APIs, and document processing pipelines that need to handle messy real-world inputs (scanned PDFs, inconsistent formatting, the usual).
+I'm a Junior AI Developer specializing in conversational AI, RAG pipelines, and document automation, with a strong focus on Python and FastAPI.
+I build AI systems for a maritime technology company, including conversational assistants, backend APIs, and document processing pipelines designed to handle messy, real-world inputs such as scanned PDFs, inconsistent formatting, and unstructured data.
+
 
 
 ### Skills
