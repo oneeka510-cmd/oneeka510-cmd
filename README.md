@@ -28,7 +28,7 @@ I build AI systems for a maritime technology company, including conversational a
 | Generative AI & ML | LangChain, LangGraph, RAG, Azure AI Search, OpenAI API, Scikit-learn |
 | Programming & Databases | Python, FastAPI, SQLAlchemy, SQL, PostgreSQL, SQL Server, Weaviate |
 | Data Analysis & Visualization | Pandas, NumPy, Power BI, MS Excel, Seaborn, Matplotlib |
-| Tools & Platforms | Git, GitHub, Streamlit, Hugging Face, OCR, Codex |
+| Tools & Platforms | Git, GitHub, Streamlit, Hugging Face, OCR, Codex, Docker |
 <br/>
 
 ### Links
